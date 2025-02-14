@@ -1,0 +1,11 @@
+C:\Users\elect\Comp 4870\StudentsStatic\SchoolLibrary\bin\Debug\net8.0\SchoolLibrary.deps.json
+C:\Users\elect\Comp 4870\StudentsStatic\SchoolLibrary\bin\Debug\net8.0\SchoolLibrary.dll
+C:\Users\elect\Comp 4870\StudentsStatic\SchoolLibrary\bin\Debug\net8.0\SchoolLibrary.pdb
+C:\Users\elect\Comp 4870\StudentsStatic\SchoolLibrary\obj\Debug\net8.0\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elect\Comp 4870\StudentsStatic\SchoolLibrary\obj\Debug\net8.0\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\elect\Comp 4870\StudentsStatic\SchoolLibrary\obj\Debug\net8.0\SchoolLibrary.AssemblyInfo.cs
+C:\Users\elect\Comp 4870\StudentsStatic\SchoolLibrary\obj\Debug\net8.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\elect\Comp 4870\StudentsStatic\SchoolLibrary\obj\Debug\net8.0\SchoolLibrary.dll
+C:\Users\elect\Comp 4870\StudentsStatic\SchoolLibrary\obj\Debug\net8.0\refint\SchoolLibrary.dll
+C:\Users\elect\Comp 4870\StudentsStatic\SchoolLibrary\obj\Debug\net8.0\SchoolLibrary.pdb
+C:\Users\elect\Comp 4870\StudentsStatic\SchoolLibrary\obj\Debug\net8.0\ref\SchoolLibrary.dll
